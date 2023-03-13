@@ -1,3 +1,3 @@
 # WMEML-CS105FinalProject
 
-https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+https://nijianmo.github.io/amazon/index.html
